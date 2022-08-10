@@ -1,1 +1,4 @@
-[{'FM1:'TAGN(TRUE,0),'PE1':TAGN(TRUE,1),'PE2':TAGN(TRUE,2),'PE3':TAGN(TRUE,3),'PE4':TAGN(TRUE,4),'TP1':TAGN(TRUE,5),'TP2':TAGN(TRUE,6)}]
+[
+{"n": "temperature", "u": "Cel", "v": TAGN([true, 0])},
+{"n":"humidity", "u":"%RH","v": TAGN([True, 1])}
+]
