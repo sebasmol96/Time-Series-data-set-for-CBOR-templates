@@ -1,0 +1,4 @@
+[
+{"n": "temperature", "u": "Cel", "v": TAGN([0, TRUE])},
+{"n":"humidity", "u":"%RH","v": TAGN([1,TRUE])}
+]

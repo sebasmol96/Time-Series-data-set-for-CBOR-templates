@@ -1,0 +1,2 @@
+[{'n': 'temperature',  'u': 'Cel', 'v': 10.20},
+{'n': 'humidity', 'u': '%RH', 'v': 20.50}]

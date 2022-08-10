@@ -1,0 +1,6 @@
+[
+{'n':'Co2','t':0,'u':'ppm','v':TAGN(TRUE,0)},
+{'n':'humidity','t':0,'u':'%RH','v':TAGN(TRUE,1)},
+{'n':'light','t':0,'u':'lx','v':TAGN(TRUE,2)},
+{'n':'temp','t':0,'u':'C','v':TAGN(TRUE,3)}
+]

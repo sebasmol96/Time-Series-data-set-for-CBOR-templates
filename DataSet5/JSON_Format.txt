@@ -1,0 +1,11 @@
+[
+{'n': 'temperature',  'u': 'Cel', 'v': 10.20},
+{'n': 'humidity', 'u': '%RH', 'v': 20.50},
+{'n': 'temperature', 'u': 'Cel', 'v': 10.30},
+{'n': 'humidity', 'u': '%RH', 'v': 20.40},
+{'n': 'temperature', 'u': 'Cel', 'v': 10.50},
+{'n': 'humidity', 'u': '%RH', 'v': 20.62},
+{'n': 'temperature', 'u': 'Cel', 'v': 10.40},
+{'n': 'temperature', 'u': 'Cel', 'v': 10.60},
+{'n': 'humidity', 'u': '%RH', 'v': 20.84}
+]
