@@ -1,0 +1,1 @@
+{'n':'Latitude','u':'Lat','t':1 ,'v':TAGN(0,TRUE)},{'n':'Longitude','u':'Lon','t':1,'v':TAGN(1,TRUE)},{'n':'Velocity','u':'m/s','t':1,'v':TAGN(2,TRUE)}

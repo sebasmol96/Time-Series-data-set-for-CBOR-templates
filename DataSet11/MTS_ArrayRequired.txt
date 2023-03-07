@@ -1,0 +1,1 @@
+Does not apply, in Development of a Standardized Representation for IoT Time Series Data using CBOR Templates article the MTS is not analyzed
