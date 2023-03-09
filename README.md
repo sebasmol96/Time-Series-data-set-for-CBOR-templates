@@ -56,3 +56,6 @@ This dataset correspond a variation of the data set #6. In this case, we modify 
 
 ### Data Set 10
 This dataset correspond a variation of the data set #6. In this case, we modify the data set to only send one measurement with both variables (temperature and humidity). Moreover, use the same template as in data set #6 is required to evaluate the adaptability of each template.
+
+### Data Set 11
+This dataset consists of the first 300 observations obtained from a GPS placed on a bicycle to promote cyclist safety in smart cities. The GPS system includes latitude, longitude, and velocity information, resulting in a total of 900 measurements. Taken from [[https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance](https://data.mendeley.com/datasets/3j9yh8znj4), First Route]
