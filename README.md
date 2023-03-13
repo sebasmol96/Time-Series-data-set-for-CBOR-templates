@@ -59,3 +59,22 @@ This dataset correspond a variation of the data set #6. In this case, we modify 
 
 ### Data Set 11
 This dataset consists of the first 300 observations obtained from a GPS placed on a bicycle to promote cyclist safety in smart cities. The GPS system includes latitude, longitude, and velocity information, resulting in a total of 900 measurements. Taken from [[https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance](https://data.mendeley.com/datasets/3j9yh8znj4), First Route]
+
+
+
+## Concise Data Definition Language (CDDL).
+
+
+CDDL is a data definition language that was developed by the IETF to define data structures. The main purpose of CDDL is to provide a simple and expressive way to define data structures that are readable by humans and machines for protocol messages and data formats that use CBOR or JSON structures. One of the key features of CDDL is its expressiveness, which allows the definition of complex data structures with minimal code. Moreover, it supports various data types, such as integers, strings, and arrays, which makes it suitable for different applications. 
+
+Furthermore, CDDL is designed to be extensible, allowing the addition of custom data types as needed. Additionally, CDDL allows to indicate the occurrence of a field, for example, whether it is required or optional. CDDL is used to define the data structures in CBOR or JSON. This enables a compact and efficient representation of sensor data, which facilitates its processing and interpretation. For instance, the following CDDL code defines a sensor measurement with a name, unit, and value, and indicates that the name field is required and the value field is optional.
+
+
+```
+Measurement = {
+    + name: tstr,
+    unit: tstr,
+    ? value: float,
+}
+```
+
